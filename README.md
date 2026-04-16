@@ -10,7 +10,7 @@
 
 **A real-time IoT-based industrial safety monitoring mobile app built with Flutter, NodeMCU & MySQL.**
 
-*Internship/Project — C U Shah (Govt.) Polytechnic, Surendranagar | GTU Ahmedabad | June–August 2024*
+*Internship/Project — June–August 2024*
 
 </div>
 
